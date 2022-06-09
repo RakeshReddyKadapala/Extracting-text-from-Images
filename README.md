@@ -1,4 +1,4 @@
-# Extracting-text-from-Images
+# Extracting-text-from-Images---
 ########installation guide################
 Tesseract installer for Windows
 Normally we run Tesseract on Debian GNU Linux, but there was also the need for a Windows version. That's why we have built a Tesseract installer for Windows.
